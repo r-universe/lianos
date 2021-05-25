@@ -1,5 +1,15 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/lianos/universe
 	shallow = true
 	branch = HEAD
+[submodule "sparrow"]
+	path = sparrow
+	url = https://github.com/lianos/sparrow
+	shallow = true
+	registered = true
+[submodule "sparrow.shiny"]
+	path = sparrow.shiny
+	url = https://github.com/lianos/sparrow.shiny
+	shallow = true
+	registered = true
