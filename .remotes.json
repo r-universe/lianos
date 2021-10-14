@@ -1,8 +1,0 @@
-[
-  {
-    "package": "sparrow",
-    "url": "https://github.com/lianos/sparrow",
-    "via": ["sparrow.shiny"],
-    "from": "sparrow.shiny"
-  }
-]
