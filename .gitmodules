@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/lianos/universe
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
 [submodule "sparrow"]
 	path = sparrow
 	url = https://github.com/lianos/sparrow
-[submodule "sparrow.shiny"]
-	path = sparrow.shiny
-	url = https://github.com/lianos/sparrow.shiny
